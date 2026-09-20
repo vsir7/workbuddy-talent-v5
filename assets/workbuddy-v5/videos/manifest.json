@@ -1,0 +1,23 @@
+[
+  {
+    "demo": "专家团",
+    "source": "/Users/tongyuhu/Downloads/专家团 22.mp4",
+    "asset": "assets/workbuddy-v5/videos/专家团.mp4",
+    "bytes": 65133659,
+    "sha256": "2f38f6775a0b981158ca33e666dbb07f09231371fdef59f99dd0d7b90b3bb0fa"
+  },
+  {
+    "demo": "简历优化",
+    "source": "/Users/tongyuhu/Downloads/简历 2.mp4",
+    "asset": "assets/workbuddy-v5/videos/简历优化.mp4",
+    "bytes": 37509337,
+    "sha256": "0bcf0cadd2c4ebc0244dcbfb9ca71c042af20ec192ce1e74068a70cdca098593"
+  },
+  {
+    "demo": "活动推荐",
+    "source": "/Users/tongyuhu/Downloads/活动 2.mp4",
+    "asset": "assets/workbuddy-v5/videos/活动推荐.mp4",
+    "bytes": 23455153,
+    "sha256": "dac3fa7c2dc911e0fe83db7226d0ee8464a06ca55b417cfc4503b92beee8cfea"
+  }
+]
